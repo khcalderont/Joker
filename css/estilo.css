@@ -1,0 +1,40 @@
+body{
+    
+    font: 25px Comic Sans MS;
+    padding: 0;
+    margin: 0;
+    background-color: #8231FF;
+}
+
+input{
+    width: 100%;
+    height: 25px;
+    border: 1px solid gray;
+    margin-bottom: 5px;
+}
+
+#boton{
+    height: 40px;
+    width: 20%;
+    background: #4F0093;
+    margin-left: 35%;
+   
+
+}
+
+#tabla{
+   
+}
+
+#titulo{
+    margin-top: -10%;
+}
+
+#logo{
+    margin-left: 10%;
+    margin-top: 5%;
+}
+
+.iconos{
+    margin-left: 45%;
+}
